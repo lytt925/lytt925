@@ -1,4 +1,4 @@
-Hi, I am a Master’s student in Psychology at National Taiwan University (NTU), specializing in psychoinformatics — a field that merges psychological research with information technology to analyze human behavior and mind. Alongside my academic pursuits, I’m passionate about backend development and DevOps, and I’m currently interning at LINE,
+ 👋 Hi, I am a Master’s student in Psychology at National Taiwan University (NTU), specializing in psychoinformatics — a field that merges psychological research with information technology to analyze human behavior and mind. Alongside my academic pursuits, I’m passionate about backend development and DevOps, and I’m currently interning at LINE,
 <!--
 **lytt925/lytt925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
